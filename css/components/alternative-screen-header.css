@@ -7,8 +7,8 @@
   align-items: center;
 }
 .alt-header__title {
-  font-size: 30px;
-  font-weight: 600;
+  font-size: 25px;
+  font-weight: 400;
 }
 .alt-header__column:first-child {
   margin-right: auto;
