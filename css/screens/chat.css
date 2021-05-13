@@ -117,7 +117,7 @@
   background-color: white;
   display: flex;
   justify-content: space-between;
-  padding: 8px 25px;
+  padding: 8px 10px;
   align-items: center;
   transition: all 0.3s ease-in-out;
 }
